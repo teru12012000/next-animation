@@ -19,7 +19,9 @@ export default function RootLayout(
     <html lang="ja">
       <body className={inter.className}>
         <Header/>
-        <ClinentLayout {...props}/>
+        <ClinentLayout>
+          {props.children}
+        </ClinentLayout>
       </body>
     </html>
   )

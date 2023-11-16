@@ -1,3 +1,4 @@
+'use client'
 import { LayoutRouterContext } from "next/dist/shared/lib/app-router-context.shared-runtime";
 import { ReactNode, useContext, useRef } from "react";
 interface props{

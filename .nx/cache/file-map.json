@@ -1,0 +1,120 @@
+{
+  "version": "6.0",
+  "nxVersion": "17.1.1",
+  "deps": {
+    "framer-motion": "^10.16.4",
+    "next": "14.0.2",
+    "react": "^18",
+    "react-dom": "^18",
+    "@nx/next": "^17.1.1",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.2",
+    "typescript": "^5"
+  },
+  "pathMappings": {
+    "@/*": [
+      "./src/*"
+    ]
+  },
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {},
+    "nonProjectFiles": [
+      {
+        "file": ".eslintrc.json",
+        "hash": "10616060546436571437"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "15751075988610075934"
+      },
+      {
+        "file": ".nx/cache/file-map.json",
+        "hash": "17699625979863687938"
+      },
+      {
+        "file": ".nx/cache/lockfile.hash",
+        "hash": "2052534497042703473"
+      },
+      {
+        "file": ".nx/cache/parsed-lock-file.json",
+        "hash": "1377036313082162699"
+      },
+      {
+        "file": ".nx/cache/project-graph.json",
+        "hash": "12528773091720146013"
+      },
+      {
+        "file": "README.md",
+        "hash": "12205685531602560652"
+      },
+      {
+        "file": "next.config.js",
+        "hash": "15753532488629101999"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "9305391078747011481"
+      },
+      {
+        "file": "package.json",
+        "hash": "16619888138351352229"
+      },
+      {
+        "file": "public/next.svg",
+        "hash": "8300767200008744458"
+      },
+      {
+        "file": "public/vercel.svg",
+        "hash": "2376673330454856631"
+      },
+      {
+        "file": "src/app/clinentLayout.tsx",
+        "hash": "11045687608313516892"
+      },
+      {
+        "file": "src/app/favicon.ico",
+        "hash": "9157999678830540297"
+      },
+      {
+        "file": "src/app/globals.css",
+        "hash": "10849855560164766478"
+      },
+      {
+        "file": "src/app/layout.tsx",
+        "hash": "1597360572189171072"
+      },
+      {
+        "file": "src/app/page.module.css",
+        "hash": "3135899813258705622"
+      },
+      {
+        "file": "src/app/page.tsx",
+        "hash": "6548588694449552874"
+      },
+      {
+        "file": "src/app/page2/page.tsx",
+        "hash": "8672932109422613447"
+      },
+      {
+        "file": "src/components/header/index.tsx",
+        "hash": "4891593425536980184"
+      },
+      {
+        "file": "src/components/provider/provider.tsx",
+        "hash": "13060285714707904303"
+      },
+      {
+        "file": "tsconfig.json",
+        "hash": "5523950529985030143"
+      },
+      {
+        "file": "yarn.lock",
+        "hash": "16713851273504531152"
+      }
+    ]
+  }
+}
